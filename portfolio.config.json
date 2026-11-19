@@ -1,15 +1,15 @@
 {
   "profile": {
-    "name": "Ram",
-    "title": "consultant",
+    "name": "Neeru Sahu",
+    "title": "Consultant 123",
     "email": "dishainternational1986@gmail.com",
-    "phone": "97111276986",
+    "phone": "9711279578",
     "location": "Noida",
     "linkedin": "",
     "topmate": "",
     "photo": "/placeholder-avatar.svg",
     "cvUrl": "",
-    "footerLine": "consultant"
+    "footerLine": "Consultant 123"
   },
   "socials": [
     {
@@ -21,10 +21,10 @@
   "hero": {
     "status": "Neeru Sahu",
     "greeting": "Hi, I’m",
-    "firstName": "Ram",
-    "lastName": "",
-    "role": "consultant",
-    "summary": "I am running a company good luck",
+    "firstName": "Neeru",
+    "lastName": "Sahu",
+    "role": "Consultant 123",
+    "summary": "i am fine",
     "primaryButton": {
       "label": "View Projects",
       "href": "#work"
@@ -86,7 +86,7 @@
   "mentoring": {
     "enabled": true,
     "pill": "",
-    "headline": "Mentor with Ram",
+    "headline": "Mentor with Neeru",
     "text": "",
     "bookLabel": "Book a Session on Topmate",
     "linkedinLabel": "Connect on LinkedIn",
@@ -97,7 +97,7 @@
   "linkedinBanner": {
     "eyebrow": "Insights · Career guidance",
     "titleA": "Connect with",
-    "titleB": "Ram on LinkedIn",
+    "titleB": "Neeru on LinkedIn",
     "text": "",
     "button": "Connect on LinkedIn"
   },
